@@ -1,3 +1,4 @@
+print("Bot loaded and up and running!")
 local TextChatService = game:GetService("TextChatService")
 local Player = game.Players.LocalPlayer    
 local Http = game:GetService("HttpService")
