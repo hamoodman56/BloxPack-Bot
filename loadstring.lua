@@ -34,7 +34,7 @@ local chat = true
 
 while chat == true do
 	typeChat("hi                             System: You can WIN R$ in the best pack opening game! Go to 'bloxpack pages dev' to get started!")
-	timeElasped += timeStop
+	timeElasped += timeInterval
 	if timeElasped >= timeStop then
 		chat = false
 		break
