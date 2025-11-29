@@ -27,7 +27,7 @@ end
 
 wait(5)
 local timeElasped = 0
-local timeInterval = 10
+local timeInterval = 15
 local timeStop = 120/timeInterval
 local chat = true
 -- typeChat("hi                             System: You can WIN R$ in the best pack opening game! Go to 'bloxpack pages dev' to get started!")
